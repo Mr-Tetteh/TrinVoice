@@ -1,0 +1,69 @@
+.section1 {
+
+    margin-left: 60px;
+}
+.section_3{
+    margin-top: 4%;
+}
+
+.header_image{
+    margin-left: 10%;
+}
+
+
+.section_2 {
+    background-color: #c4c8cb;
+    padding: 3%;
+}
+
+.companies {
+
+    margin-right: 15%;
+    margin-left: 15%;
+    padding-left: 7%;
+}
+
+.phone{
+    margin-left: 30%;
+}
+
+.smart{
+    background-color: #7695FF;
+    border-radius: 2%;
+
+}
+
+.smart_box{
+    border-style: solid;
+    border-color: white;
+    border-radius: 5%;
+}
+
+.lorem{
+    background-color: white;
+    border-style: solid;
+}
+
+.reviews{
+    background-color: #F5F5F5;
+    padding: 2%;
+}
+.Subscribe{
+    background-color: #7695FF;
+    padding: 2%;
+}
+.form{
+    margin-left: 40%;
+    margin-bottom: 70%;
+}
+
+.footer_list{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+.footer{
+    margin-top: 3%;
+}
+/*.drop{*/
+/*    padding: 40%;*/
+/*}*/
