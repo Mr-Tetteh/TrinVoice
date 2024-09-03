@@ -29,15 +29,16 @@
 
 .smart{
     background-color: #7695FF;
-    border-radius: 2%;
+    border-radius: 3%;
+    padding: 5%;
 
 }
 
-.smart_box{
-    border-style: solid;
-    border-color: white;
-    border-radius: 5%;
+.box{
+    padding: 2%;
+    margin-right: 50%;
 }
+
 
 .lorem{
     background-color: white;
